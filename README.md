@@ -1,0 +1,1 @@
+This repository contains a simple example of a common type error in TypeScript.  The `add` function is defined to accept two numbers and return their sum. However, the code attempts to call the function with a string and a number, resulting in a type error. The solution demonstrates how to fix the error using type guards or explicit type conversions.
